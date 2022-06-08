@@ -1,0 +1,32 @@
+*{
+				transition: 0.5s;
+			}
+
+			body,html{
+				background-color:#FFD78C;padding:0px;margin:0px;;
+			}
+			
+			div.word1{
+				
+				position: relative;
+				left: 350px;
+				top: 300px;
+				font-size: 30px;
+				font-family: Microsoft JhengHei;
+				width:1000px;
+				letter-spacing: 2px;
+			}
+			a{
+				text-decoration: none;
+				color: #333;
+				border: solid 3px #333;
+				padding: 8px 20px;
+				border-radius: 35px;
+				font-family: Microsoft JhengHei;
+				letter-spacing: 2px;
+				font-size: 20px;
+			}
+			a:hover{
+				color: #eee;
+				background-color: #333;
+			}
